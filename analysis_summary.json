@@ -1,0 +1,10 @@
+{
+  "total_stories": 50,
+  "average_score": 137.0,
+  "median_score": 111.0,
+  "maximum_score": 704,
+  "total_comments_reported": 4786,
+  "highest_score_story_title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+  "highest_score_story_score": 704,
+  "keyword_method": "Frequency of words in story titles after basic stopword removal"
+}
